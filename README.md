@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0C4A6E&height=220&section=header&text=SHAIK%20TAWFIQ%20BASHA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%203rd%20Year%20B.Tech%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0C4A6E&height=220&section=header&text=SHAIK%20TAWFIQ%20BASHA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;Daily+DSA+%26+LeetCode+Practice;Building+Real-World+Applications" alt="Typing SVG"/>
 
@@ -9,11 +9,11 @@
 <img src="https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Ofiq-cmd">
-<img src="https://img.shields.io/badge/GitHub-Ofiq--cmd-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ShaikTawfiq">
+<img src="https://img.shields.io/badge/GitHub-ShaikTawfiq-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ofiq-shaik">
+<a href="https://linkedin.com/in/shaik-tawfiq-basha-67b003330">
 <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Tawfiq-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
@@ -24,19 +24,19 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Shaik Tawfiq Basha**, a **3rd-year B.Tech student** passionate about software development and problem solving.
+Hi! I'm **Shaik Tawfiq Basha**, a B.Tech student passionate about software development and problem solving.
 
 I am currently building my skills in **Java Full Stack Development**, focusing on backend development with **Java & Spring Boot** and frontend development with **React**.
 
 I also practice **Data Structures & Algorithms daily** and continuously improve my coding and problem-solving skills through LeetCode.
 
-🎓 B.Tech — 3rd Year  
-💻 Java • Python • JavaScript • HTML • CSS • SQL  
-🌱 Java Full Stack Development  
-⚙️ Spring Boot • React • MySQL • REST APIs  
-🧩 Daily Data Structures & Algorithms Practice  
-🏆 NPTEL Programming in Java Certified  
-🚀 Interested in building practical, real-world applications
+- 🎓 B.Tech Student
+- 💻 Java • Python • JavaScript • HTML • CSS • SQL
+- 🌱 Java Full Stack Development
+- ⚙️ Spring Boot • React • MySQL • REST APIs
+- 🧩 Daily Data Structures & Algorithms Practice
+- 🏆 NPTEL Programming in Java Certified
+- 🚀 Interested in building practical, real-world applications
 
 ---
 
@@ -47,7 +47,6 @@ I also practice **Data Structures & Algorithms daily** and continuously improve 
 A full-stack web application designed to help reduce food wastage by connecting food donors with people who need food.
 
 **Features:**
-
 - User Registration & Login
 - Food Donation Management
 - Available Food Listings
@@ -70,7 +69,6 @@ A team-based **Java Full Stack Development** project developed during my interns
 The platform allows users to register, explore job and internship opportunities, view details, apply for opportunities, and track application status.
 
 **Key Features:**
-
 - User Registration & Login
 - Job & Internship Listings
 - Application Management
@@ -92,7 +90,7 @@ The platform allows users to register, explore job and internship opportunities,
 💻 **NPTEL Programming in Java Certification**
 
 ☕ **Advanced Java Course Certification**  
-**4ITA Academy**
+**FITA Academy**
 
 🚀 **Java Full Stack Development Internship**  
 **Wyntrix Innovation OPC Private Limited**
@@ -182,9 +180,33 @@ I believe in **learning by building**. I continuously work on projects, practice
 ## 🔗 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/ofiq-shaik">
+<a href="https://linkedin.com/in/shaik-tawfiq-basha-67b003330">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Ofiq-cmd">
-<img src="https://img.shields.io/badge/GitHub-Follow-181
+<a href="https://github.com/ShaikTawfiq">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ofiqshaik0916@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShaikTawfiq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikTawfiq&hide_border=true&background=0D1117&ring=0EA5E9&fire=38BDF8&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8b949e"/>
+
+<br/><br/>
+
+<b>Thanks for visiting my profile! 🚀</b>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C4A6E,50:0EA5E9,100:38BDF8&height=100&section=footer" width="100%"/>
